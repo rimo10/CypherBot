@@ -1,4 +1,4 @@
-## Entertain me TeleBot
+## Entertain me CypherBot
 A Telegram Bot to help you overcome your boredom.
 
 ## Commands
